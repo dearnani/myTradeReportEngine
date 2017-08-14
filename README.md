@@ -1,5 +1,5 @@
 "# myTradeReportEngine" 
- August 10 2017
+ August 14 2017
 TradedReportEngine facilitates a report with the following :
  - Amount in Currency settled Buy everyday - BUY SUMMARY
  - Amount in Currency settled Sell everyday - SELL SUMMARY
