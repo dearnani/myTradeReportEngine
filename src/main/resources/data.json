@@ -1,0 +1,141 @@
+{ "tradedData" : [  {
+	"businessEntity": "AAL",
+    "tradeBuyOrSell": "BUY",
+    "forexRate": 0.5,
+    "tradeCurrency": "SGD",
+    "instructionDate": "01 Jan 2016",
+    "settlementDate": "02 Jan 2016",
+    "numberOfUnits": 300,
+    "unitPrice": 100.25
+  },
+  {
+    "businessEntity": "AAL",
+    "tradeBuyOrSell": "BUY",
+    "forexRate": 0.7,
+    "tradeCurrency": "GBP",
+    "instructionDate": "02 Jan 2016",
+    "settlementDate": "03 Jan 2016",
+    "numberOfUnits": 150,
+    "unitPrice": 50.0
+  },
+  {
+    "businessEntity": "AAL",
+    "tradeBuyOrSell": "BUY",
+    "forexRate": 0.7,
+    "tradeCurrency": "GBP",
+    "instructionDate": "03 Jan 2016",
+    "settlementDate": "04 Jan 2016",
+    "numberOfUnits": 200,
+    "unitPrice": 50.00
+  },
+  {
+    "businessEntity": "AAL",
+    "tradeBuyOrSell": "BUY",
+    "forexRate": 0.7,
+    "tradeCurrency": "GBP",
+    "instructionDate": "06 Jan 2016",
+    "settlementDate": "07 Jan 2016",
+    "numberOfUnits": 300,
+    "unitPrice": 50.00
+  },
+  {
+    "businessEntity": "AAPL",
+    "tradeBuyOrSell": "BUY",
+    "forexRate": 0.45,
+    "tradeCurrency": "AED",
+    "instructionDate": "05 Jan 2016",
+    "settlementDate": "09 Jan 2016",
+    "numberOfUnits": 200,
+    "unitPrice": 80.00
+  },
+  {
+    "businessEntity": "AAPL",
+    "tradeBuyOrSell": "BUY",
+    "forexRate": 0.45,
+    "tradeCurrency": "AUD",
+    "instructionDate": "05 Jan 2016",
+    "settlementDate": "10 Jan 2016",
+    "numberOfUnits": 225,
+    "unitPrice": 80.16
+  },
+  {
+    "businessEntity": "PYPL",
+    "tradeBuyOrSell": "BUY",
+    "forexRate": 0.85,
+    "tradeCurrency": "GBP",
+    "instructionDate": "08 Jan 2016",
+    "settlementDate": "09 Jan 2016",
+    "numberOfUnits": 500,
+    "unitPrice": 200.75
+  },
+  {
+    "businessEntity": "AAL",
+    "tradeBuyOrSell": "SELL",
+    "forexRate": 0.22,
+    "tradeCurrency": "AED",
+    "instructionDate": "05 Jan 2016",
+    "settlementDate": "07 Jan 2016",
+    "numberOfUnits": 450,
+    "unitPrice": 150.5
+  },
+  {
+    "businessEntity": "AAL",
+    "tradeBuyOrSell": "SELL",
+    "forexRate": 0.22,
+    "tradeCurrency": "AED",
+    "instructionDate": "06 Jan 2016",
+    "settlementDate": "08 Jan 2016",
+    "numberOfUnits": 350,
+    "unitPrice": 150.5
+  },
+  {
+    "businessEntity": "AAL",
+    "tradeBuyOrSell": "SELL",
+    "forexRate": 0.22,
+    "tradeCurrency": "AED",
+    "instructionDate": "08 Jan 2016",
+    "settlementDate": "09 Jan 2016",
+    "numberOfUnits": 200,
+    "unitPrice": 150.5
+  },
+  {
+    "businessEntity": "AAL",
+    "tradeBuyOrSell": "SELL",
+    "forexRate": 0.22,
+    "tradeCurrency": "AED",
+    "instructionDate": "05 Jan 2016",
+    "settlementDate": "07 Jan 2016",
+    "numberOfUnits": 100,
+    "unitPrice": 150.5
+  },
+  {
+    "businessEntity": "QCOM",
+    "tradeBuyOrSell": "SELL",
+    "forexRate": 0.35,
+    "tradeCurrency": "GBP",
+    "instructionDate": "04 Jan 2016",
+    "settlementDate": "05 Jan 2016",
+    "numberOfUnits": 100,
+    "unitPrice": 101.5
+  },
+  {
+    "businessEntity": "QCOM",
+    "tradeBuyOrSell": "SELL",
+    "forexRate": 0.35,
+    "tradeCurrency": "GBP",
+    "instructionDate": "06 Jan 2016",
+    "settlementDate": "06 Jan 2016",
+    "numberOfUnits": 225,
+    "unitPrice": 101.5
+  },
+  {
+    "businessEntity": "QCOM",
+    "tradeBuyOrSell": "SELL",
+    "forexRate": 0.35,
+    "tradeCurrency": "GBP",
+    "instructionDate": "07 Jan 2016",
+    "settlementDate": "09 Jan 2016",
+    "numberOfUnits": 350,
+    "unitPrice": 101.5
+  } ]
+  }
